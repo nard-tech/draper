@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "./performance/models"
 class ProductDecorator < Draper::Decorator
 

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def rspec_guard(options = {}, &block)
   options = {
     version: 2,

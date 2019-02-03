@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   module Compatibility
     # [Active Job](http://edgeguides.rubyonrails.org/active_job_basics.html) allows you to pass

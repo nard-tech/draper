@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   class Factory
     # Creates a decorator factory.

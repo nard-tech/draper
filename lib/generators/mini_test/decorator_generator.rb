@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'generators/mini_test'
 
 module MiniTest

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   module DeviseHelper
     def sign_in(resource_or_scope, resource = nil)

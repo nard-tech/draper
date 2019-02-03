@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   # Provides the {#helpers} method used in {Decorator} and {CollectionDecorator}
   # to call the Rails helpers.

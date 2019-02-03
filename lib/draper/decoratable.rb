@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'draper/decoratable/equality'
 
 module Draper

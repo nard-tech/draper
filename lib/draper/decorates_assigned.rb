@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   module DecoratesAssigned
     # @overload decorates_assigned(*variables, options = {})

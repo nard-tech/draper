@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class PostMailer < ApplicationMailer
   default from: "from@example.com"
   layout "application"

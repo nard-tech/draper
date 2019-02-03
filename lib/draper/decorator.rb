@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'draper/compatibility/global_id'
 
 module Draper

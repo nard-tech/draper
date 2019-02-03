@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   module DecoratorExampleGroup
     include Draper::TestCase::Behavior

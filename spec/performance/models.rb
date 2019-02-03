@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "./performance/active_record"
 class Product < ActiveRecord::Base
   def self.sample_class_method

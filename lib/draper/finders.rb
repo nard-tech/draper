@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   # Provides automatically-decorated finder methods for your decorators. You
   # do not have to extend this module directly; it is extended by

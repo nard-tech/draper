@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class PostDecorator < Draper::Decorator
   # don't delegate_all here because it helps to identify things we
   # have to delegate for ActiveModel compatibility

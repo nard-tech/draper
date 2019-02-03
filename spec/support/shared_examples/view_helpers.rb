@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 shared_examples_for "view helpers" do |subject|
   describe "#helpers" do
     it "returns the current view context" do

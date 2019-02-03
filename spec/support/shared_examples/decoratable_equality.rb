@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 shared_examples_for "decoration-aware #==" do |subject|
   it "is true for itself" do
     expect(subject == subject).to be_truthy

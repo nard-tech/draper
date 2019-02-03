@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'spec_helper'
 require 'support/dummy_app'
 require 'support/matchers/have_text'

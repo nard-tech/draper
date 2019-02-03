@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   def self.undecorate(object)
     if object.respond_to?(:decorated?) && object.decorated?

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'draper/view_context/build_strategy'
 require 'request_store'
 

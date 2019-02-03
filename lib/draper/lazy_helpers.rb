@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   # Include this module in your decorators to get direct access to the helpers
   # so that you can stop typing `h.` everywhere, at the cost of mixing in a

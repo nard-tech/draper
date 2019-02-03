@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 shared_examples_for "a decoratable model" do
   describe ".decorate" do
     it "applies a collection decorator to a scope" do

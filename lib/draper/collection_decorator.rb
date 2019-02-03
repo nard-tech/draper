@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   class CollectionDecorator
     include Enumerable

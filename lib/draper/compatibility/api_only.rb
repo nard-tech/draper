@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   module Compatibility
     # Draper expects your `ApplicationController` to include `ActionView::Rendering`. The

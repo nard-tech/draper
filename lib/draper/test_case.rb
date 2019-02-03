@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   require 'active_support/test_case'
 

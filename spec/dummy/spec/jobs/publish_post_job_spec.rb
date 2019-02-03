@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe PublishPostJob, type: :job do
   let(:post) { Post.create.decorate }
 

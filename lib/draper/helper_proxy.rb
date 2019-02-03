@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Draper
   # Provides access to helper methods - both Rails built-in helpers, and those
   # defined in your application.

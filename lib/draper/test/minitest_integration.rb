@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Draper::TestCase
   register_spec_type(self) do |desc|
     desc < Draper::Decorator || desc < Draper::CollectionDecorator if desc.is_a?(Class)
